@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 ##  Projeto
-Pegando um projeto em HTML e CSS e aplicando em Java Script e React.
+Replicando um projeto HTML/CSS (footer) em JavaScript e React.
 <br>
 - Executar o **yarn start** no terminal;
   * Abrir http://localhost:3000 para visualizar no browser;
